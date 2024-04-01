@@ -1,0 +1,693 @@
+{
+"tag" : "TAG_COMPOUND",
+"val":{
+"BiomeOverride": {
+"tag" : "TAG_STRING",
+"val":""
+}
+,
+"CenterMapsToOrigin": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"ConfirmedPlatformLockedContent": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"Difficulty": {
+"tag" : "TAG_INT",
+"val":0
+}
+,
+"FlatWorldLayers": {
+"tag" : "TAG_STRING",
+"val":"{\"biome_id\":1,\"block_layers\":[{\"block_name\":\"minecraft:bedrock\",\"count\":1},{\"block_name\":\"minecraft:dirt\",\"count\":2},{\"block_name\":\"minecraft:grass\",\"count\":1}],\"encoding_version\":6,\"structure_options\":null,\"world_version\":\"version.post_1_18\"}\n"
+}
+,
+"ForceGameType": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"GameType": {
+"tag" : "TAG_INT",
+"val":1
+}
+,
+"Generator": {
+"tag" : "TAG_INT",
+"val":2
+}
+,
+"InventoryVersion": {
+"tag" : "TAG_STRING",
+"val":"1.20.62"
+}
+,
+"LANBroadcast": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"LANBroadcastIntent": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"LastPlayed": {
+"tag" : "TAG_LONG",
+"val":1709733273
+}
+,
+"LevelName": {
+"tag" : "TAG_STRING",
+"val":"我的世界"
+}
+,
+"LimitedWorldOriginX": {
+"tag" : "TAG_INT",
+"val":0
+}
+,
+"LimitedWorldOriginY": {
+"tag" : "TAG_INT",
+"val":32767
+}
+,
+"LimitedWorldOriginZ": {
+"tag" : "TAG_INT",
+"val":0
+}
+,
+"MinimumCompatibleClientVersion": {
+"tag" : "TAG_LIST",
+"listtag" : "TAG_INT",
+"val":[
+1,
+20,
+60,
+0,
+0]
+
+}
+,
+"MultiplayerGame": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"MultiplayerGameIntent": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"NetherScale": {
+"tag" : "TAG_INT",
+"val":8
+}
+,
+"NetworkVersion": {
+"tag" : "TAG_INT",
+"val":649
+}
+,
+"Platform": {
+"tag" : "TAG_INT",
+"val":2
+}
+,
+"PlatformBroadcastIntent": {
+"tag" : "TAG_INT",
+"val":2
+}
+,
+"RandomSeed": {
+"tag" : "TAG_LONG",
+"val":2374194848772228848
+}
+,
+"SpawnV1Villagers": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"SpawnX": {
+"tag" : "TAG_INT",
+"val":0
+}
+,
+"SpawnY": {
+"tag" : "TAG_INT",
+"val":32767
+}
+,
+"SpawnZ": {
+"tag" : "TAG_INT",
+"val":0
+}
+,
+"StorageVersion": {
+"tag" : "TAG_INT",
+"val":10
+}
+,
+"Time": {
+"tag" : "TAG_LONG",
+"val":5000
+}
+,
+"WorldVersion": {
+"tag" : "TAG_INT",
+"val":1
+}
+,
+"XBLBroadcastIntent": {
+"tag" : "TAG_INT",
+"val":2
+}
+,
+"abilities": {
+"tag" : "TAG_COMPOUND",
+"val":{
+"attackmobs": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"attackplayers": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"build": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"doorsandswitches": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"flySpeed": {
+"tag" : "TAG_FLOAT",
+"val":0.05
+}
+,
+"flying": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"instabuild": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"invulnerable": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"lightning": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"mayfly": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"mine": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"op": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"opencontainers": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"teleport": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"walkSpeed": {
+"tag" : "TAG_FLOAT",
+"val":0.1
+}
+}
+
+}
+,
+"baseGameVersion": {
+"tag" : "TAG_STRING",
+"val":"*"
+}
+,
+"bonusChestEnabled": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"bonusChestSpawned": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"cheatsEnabled": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"commandblockoutput": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"commandblocksenabled": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"commandsEnabled": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"currentTick": {
+"tag" : "TAG_LONG",
+"val":100755
+}
+,
+"daylightCycle": {
+"tag" : "TAG_INT",
+"val":1
+}
+,
+"dodaylightcycle": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"doentitydrops": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"dofiretick": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"doimmediaterespawn": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"doinsomnia": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"dolimitedcrafting": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"domobloot": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"domobspawning": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"dotiledrops": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"doweathercycle": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"drowningdamage": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"editorWorldType": {
+"tag" : "TAG_INT",
+"val":0
+}
+,
+"eduOffer": {
+"tag" : "TAG_INT",
+"val":0
+}
+,
+"educationFeaturesEnabled": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"experiments": {
+"tag" : "TAG_COMPOUND",
+"val":{
+"armadillo": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"cameras": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"data_driven_biomes": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"data_driven_items": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"experimental_molang_features": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"experiments_ever_used": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"gametest": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"saved_with_toggled_experiments": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"upcoming_creator_features": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"updateAnnouncedLive2023": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"villager_trades_rebalance": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+}
+
+}
+,
+"falldamage": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"firedamage": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"freezedamage": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"functioncommandlimit": {
+"tag" : "TAG_INT",
+"val":10000
+}
+,
+"hasBeenLoadedInCreative": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"hasLockedBehaviorPack": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"hasLockedResourcePack": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"immutableWorld": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"isCreatedInEditor": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"isExportedFromEditor": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"isFromLockedTemplate": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"isFromWorldTemplate": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"isRandomSeedAllowed": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"isSingleUseWorld": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"isWorldTemplateOptionLocked": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"keepinventory": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"lastOpenedWithVersion": {
+"tag" : "TAG_LIST",
+"listtag" : "TAG_INT",
+"val":[
+1,
+20,
+62,
+1,
+0]
+
+}
+,
+"lightningLevel": {
+"tag" : "TAG_FLOAT",
+"val":0
+}
+,
+"lightningTime": {
+"tag" : "TAG_INT",
+"val":125138
+}
+,
+"limitedWorldDepth": {
+"tag" : "TAG_INT",
+"val":16
+}
+,
+"limitedWorldWidth": {
+"tag" : "TAG_INT",
+"val":16
+}
+,
+"maxcommandchainlength": {
+"tag" : "TAG_INT",
+"val":65535
+}
+,
+"mobgriefing": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"naturalregeneration": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"permissionsLevel": {
+"tag" : "TAG_INT",
+"val":0
+}
+,
+"playerPermissionsLevel": {
+"tag" : "TAG_INT",
+"val":1
+}
+,
+"playerssleepingpercentage": {
+"tag" : "TAG_INT",
+"val":100
+}
+,
+"prid": {
+"tag" : "TAG_STRING",
+"val":""
+}
+,
+"projectilescanbreakblocks": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"pvp": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"rainLevel": {
+"tag" : "TAG_FLOAT",
+"val":0
+}
+,
+"rainTime": {
+"tag" : "TAG_INT",
+"val":142910
+}
+,
+"randomtickspeed": {
+"tag" : "TAG_INT",
+"val":1
+}
+,
+"recipesunlock": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"requiresCopiedPackRemovalCheck": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"respawnblocksexplode": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"sendcommandfeedback": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"serverChunkTickRange": {
+"tag" : "TAG_INT",
+"val":4
+}
+,
+"showbordereffect": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"showcoordinates": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"showdeathmessages": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"showrecipemessages": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"showtags": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"spawnMobs": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"spawnradius": {
+"tag" : "TAG_INT",
+"val":10
+}
+,
+"startWithMapEnabled": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"texturePacksRequired": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"tntexplodes": {
+"tag" : "TAG_BYTE",
+"val":1
+}
+,
+"useMsaGamertagsOnly": {
+"tag" : "TAG_BYTE",
+"val":0
+}
+,
+"worldStartCount": {
+"tag" : "TAG_LONG",
+"val":4294967278
+}
+,
+"world_policies": {
+"tag" : "TAG_COMPOUND",
+"val":{
+}
+
+}
+}
+
+}

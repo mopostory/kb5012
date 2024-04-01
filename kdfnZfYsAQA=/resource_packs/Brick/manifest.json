@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "uuid": "a8f6b15f-3ee3-4405-a229-670a98c81df9",
+        "name": "Brick",
+        "description": "Brick v1 by Antique Apples (Tynker)",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            19,
+            52
+        ]
+    },
+    "modules": [
+        {
+            "description": "Brick v1 by Antique Apples (Tynker)",
+            "type": "resources",
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "uuid": "743f6949-53be-44b6-b326-398005028819"
+        }
+    ]
+}
